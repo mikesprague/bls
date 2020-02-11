@@ -1,12 +1,11 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+pie-p4q
+
+@static
 
 @http
 get /
+post /new
 
 @tables
 data
